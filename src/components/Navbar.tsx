@@ -22,8 +22,8 @@ export const Navbar = () => {
               <TrendingUp className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-foreground">ChurnPredict AI</h1>
-              <p className="text-xs text-muted-foreground">Banking Analytics</p>
+              <h1 className="text-xl font-bold text-foreground">BankChurn AI</h1>
+              <p className="text-xs text-muted-foreground">Customer Retention Analytics</p>
             </div>
           </div>
           

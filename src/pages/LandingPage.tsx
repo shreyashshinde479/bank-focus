@@ -19,8 +19,8 @@ export const LandingPage = () => {
     },
     {
       icon: BarChart3,
-      title: "Detailed Analytics",
-      description: "Visual insights and downloadable reports",
+      title: "Churn Reports & Insights",
+      description: "Download churn reports and visual insights to understand customer behavior.",
     },
   ];
 
@@ -44,7 +44,7 @@ export const LandingPage = () => {
               transition={{ duration: 0.5 }}
               className="inline-block mb-6 px-6 py-2 rounded-full bg-white/20 backdrop-blur-sm border border-white/30"
             >
-              <p className="text-white text-sm font-medium">AI-Powered Customer Analytics</p>
+              <p className="text-white text-sm font-medium">AI-Powered Churn Prediction</p>
             </motion.div>
 
             <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
@@ -55,7 +55,7 @@ export const LandingPage = () => {
             </h1>
             
             <p className="text-xl md:text-2xl text-white/90 mb-10 leading-relaxed">
-              Upload your customer data and instantly predict who might churn.
+              Upload your bank's customer data and instantly predict who might churn.
               Make data-driven decisions to retain your valuable customers.
             </p>
 
@@ -88,10 +88,10 @@ export const LandingPage = () => {
             className="text-center mb-16"
           >
             <h2 className="text-4xl font-bold text-foreground mb-4">
-              Why Choose ChurnPredict AI?
+              Why Choose BankChurn AI?
             </h2>
             <p className="text-xl text-muted-foreground">
-              Advanced analytics powered by machine learning
+              Predictive analytics powered by machine learning.
             </p>
           </motion.div>
 

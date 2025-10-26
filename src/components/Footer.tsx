@@ -5,9 +5,9 @@ export const Footer = () => {
         <p className="text-sm text-muted-foreground">
           © 2025{" "}
           <span className="font-semibold bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent">
-            Bank Churn Predictor
+            BankChurn AI
           </span>
-          . Powered by AI Analytics
+          . Powered by Machine Learning.
         </p>
       </div>
     </footer>
